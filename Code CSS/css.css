@@ -1,1 +1,35 @@
-css.css
+.logo{
+	height: 10vw;
+	border: 1px solid black;
+}
+
+.baner{
+	height: 10vw;
+	border: 1px solid black;
+}
+
+.search{
+	border: 1px solid black;
+	height: 3vw;
+	width: 100%
+}
+
+.menu{
+	border: 1px solid black;
+	height: 50vw;
+}
+
+.sp{
+	border: 1px solid black;
+	height: 15vw;
+	width: 30%;
+	-webkit-box-shadow: 6px 9px 13px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 6px 9px 13px 1px rgba(0,0,0,0.75);
+	box-shadow: 6px 9px 13px 1px rgba(0,0,0,0.75);
+	margin: 9px; 
+}
+
+.duoi{
+	background-color: gray;
+	color: white;
+}
